@@ -68,13 +68,14 @@ Halo! Saya **Agus Irawan**, mahasiswa **Teknik Informatika** yang suka ngulik te
 
 | Proyek | Deskripsi | Bahasa |
 |---|---|---|
-| [AritmaHub](https://github.com/kusanaligirl-lgtm/AritmaHub) | Eksplorasi & pengembangan proyek berbasis TypeScript. | TypeScript |
-| [belajar-vibe-coding](https://github.com/kusanaligirl-lgtm/belajar-vibe-coding) | Perjalanan belajar *vibe coding* — eksperimen & catatan latihan. | TypeScript |
-| [kalkulator-DA](https://github.com/kusanaligirl-lgtm/kalkulator-DA) | Kalkulator interaktif dengan fokus pada desain antarmuka. | CSS |
+| [AritmaHub](https://github.com/kusanaligirl-lgtm/AritmaHub) | Proyek eksplorasi & pengembangan berbasis TypeScript. | TypeScript |
 | [web-deret](https://github.com/kusanaligirl-lgtm/web-deret) | Aplikasi web penghitung deret bilangan. | JavaScript |
-| [perpus](https://github.com/kusanaligirl-lgtm/perpus) | Proyek sistem perpustakaan sederhana. | — |
+| [web-ukm](https://github.com/kusanaligirl-lgtm/web-ukm) | Website untuk UKM kampus. | JavaScript |
+| [Expense-Tracker](https://github.com/kusanaligirl-lgtm/Expense-Tracker) | Aplikasi pelacak pengeluaran harian. | JavaScript |
+| [traffic-monitoring-pontianak](https://github.com/kusanaligirl-lgtm/traffic-monitoring-pontianak) | Sistem monitoring lalu lintas Kota Pontianak. | JavaScript |
+| [app_koki](https://github.com/kusanaligirl-lgtm/app_koki) | Aplikasi berbasis Python untuk kebutuhan dapur/koki. | Python |
 
-> 💡 Klik judul proyek untuk membuka repositori. Deskripsi di atas bisa disesuaikan dengan isi repo aslimu.
+> 💡 Klik judul proyek untuk membuka repositori. Tabel ini otomatis mengikuti repo yang di-pin di profil.
 
 ---
 
